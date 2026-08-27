@@ -47,42 +47,34 @@ Become job-ready as a Junior Software Developer within 6 months by:
 
 ### Challenges Completed
 
-- [x]addEmployee()
-
-- [x]Lowest salary function
-
-- [x]removeEmployee()
-
-- [x]updateEmployee()
-
-- [x]findEmployeeById()
-
-- [x]searchEmployees()
-
-- [x]getEmployeesByDepartment()
-
-- [x]calculateTotalSalary()
-
-- [x]calculateAverageSalary()
-
-- [x]Highest salary function
+* [x] `addEmployee()` works
+* [x] Lowest salary function works
+* [x] `removeEmployee()` works
+* [x] `updateEmployee()` works
+* [x] `findEmployeeById()` works
+* [x] `searchEmployees()` works
+* [x] `getEmployeesByDepartment()` works
+* [x] `calculateTotalSalary()` works
+* [x] `calculateAverageSalary()` works
+* [x] Highest salary function works
 
 ### Topics Practiced
 
-- Arrays of Objects
-- Functions
-- Arrow Functions
-- Object Properties
-- .filter()
-- .find()
-- .map()
-- .reduce()
-- Adding, removing and updating data
-- Searching and filtering data
-- Calculating total and average salary
-- Finding highest and lowest values
-- Basic problem solving
+* Arrays of Objects
+* Functions
+* Arrow Functions
+* Object Properties
+* `.filter()`
+* `.find()`
+* `.map()`
+* `.reduce()`
+* Adding, removing and updating data
+* Searching and filtering data
+* Calculating total and average salary
+* Finding highest and lowest values
+* Basic problem solving
 
 ### Status
 
 Day 2 completed successfully. 🚀
+
