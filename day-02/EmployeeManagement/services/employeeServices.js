@@ -40,6 +40,19 @@ export function getEmployeesByDepartment(Department){
     return (d.department === Department)
    });
 }
+/*----------------------Highest paid employee------------------------*/
+export function findHighestPaidEmployee(){
+    let highestPaid = employees[0];
+     employees.forEach(e => {
+        if (e.salary > highestPaid.salary){
+        highestPaid = e;
+        }
+    });
+    return highestPaid;
+}
+
+
+
 /*---------------------------Calculate total salary-----------------------*/
 export function calculateTotalSalary(){
     let result = employees.reduce((total,currValue) => {
