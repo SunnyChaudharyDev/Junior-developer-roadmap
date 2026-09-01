@@ -78,3 +78,48 @@ Become job-ready as a Junior Software Developer within 6 months by:
 
 Day 2 completed successfully. 🚀
 
+Day 3 — Express REST API
+
+Study Time: 6 hours
+
+Challenges Completed
+
+Create an Express server
+
+Create GET route
+
+Create GET /employees/:id route
+
+Get employee ID using req.params
+
+Create POST route
+
+Create PUT route
+
+Create DELETE route
+
+Connect routes with employee service functions
+
+Send JSON responses using res.json()
+
+Topics Practiced
+Node.js
+Express.js
+REST API
+HTTP Methods
+GET
+POST
+PUT
+DELETE
+Routes
+Route Parameters
+req.params
+req.body
+res.json()
+Express middleware basics
+Connecting routes with service functions
+API testing and debugging
+Basic problem solving
+Status
+
+Day 3 completed successfully. 🚀
