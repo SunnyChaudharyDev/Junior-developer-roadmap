@@ -17,7 +17,7 @@ export function removeEmployee(Id){
 export function updateEmployee(Id,Name,Department,Salary,Experience){
    
         employees = employees.map((employe) => {
-            if(employe.id === Id){
+            if(employe.id === Number(Id)){
             return ({id : Id , name : Name, department: Department, salary: Salary, experience: Experience})
             } else {
                 return employe;
@@ -50,9 +50,6 @@ export function findHighestPaidEmployee(){
     });
     return highestPaid;
 }
-
-
-
 /*---------------------------Calculate total salary-----------------------*/
 export function calculateTotalSalary(){
     let result = employees.reduce((total,currValue) => {
@@ -77,7 +74,6 @@ export function lowestToHighest(){
 employees.sort((a,b) => a.salary - b.salary);
      return employees;
 }
-
 export default {
     addEmployee,
     removeEmployee,
@@ -89,4 +85,3 @@ export default {
     highestToLowest,
     lowestToHighest
 }
-
