@@ -78,48 +78,76 @@ Become job-ready as a Junior Software Developer within 6 months by:
 
 Day 2 completed successfully. 🚀
 
-Day 3 — Express REST API
+## Day 3 — Express REST API
 
-Study Time: 6 hours
+**Study Time:** 6 hours
 
-Challenges Completed
+### Challenges Completed
 
-Create an Express server
+* [x] Create an Express server
+* [x] Create GET route
+* [x] Create GET `/employees/:id` route
+* [x] Get employee ID using `req.params`
+* [x] Create POST route
+* [x] Create PUT route
+* [x] Create DELETE route
+* [x] Connect routes with employee service functions
+* [x] Send JSON responses using `res.json()`
 
-Create GET route
+### Topics Practiced
 
-Create GET /employees/:id route
+* Node.js
+* Express.js
+* REST API
+* HTTP Methods
+* Routes
+* Route Parameters
+* `req.params`
+* `req.body`
+* `res.json()`
+* Express Middleware Basics
+* Connecting Routes with Service Functions
+* API Testing and Debugging
+* Basic Problem Solving
 
-Get employee ID using req.params
-
-Create POST route
-
-Create PUT route
-
-Create DELETE route
-
-Connect routes with employee service functions
-
-Send JSON responses using res.json()
-
-Topics Practiced
-Node.js
-Express.js
-REST API
-HTTP Methods
-GET
-POST
-PUT
-DELETE
-Routes
-Route Parameters
-req.params
-req.body
-res.json()
-Express middleware basics
-Connecting routes with service functions
-API testing and debugging
-Basic problem solving
-Status
+### Status
 
 Day 3 completed successfully. 🚀
+
+
+## Day 4 — Express REST API & DSA
+
+**Study Time:** ___ hours
+
+### Challenges Completed
+
+* [x] Employee REST API
+* [x] GET all employees
+* [x] GET employee by ID
+* [x] POST new employee
+* [x] PUT update employee
+* [x] DELETE employee
+* [x] Error Handling Middleware
+* [x] API Testing with Postman
+* [x] DSA — Time Complexity
+
+### Topics Practiced
+
+* Express.js
+* REST API
+* CRUD Operations
+* `req.params`
+* `req.body`
+* Controllers
+* Services
+* Middleware
+* Error Handling
+* HTTP Status Codes
+* Postman
+* Big O Notation
+* Time Complexity
+* Array methods: `find()`, `findIndex()`, `map()`, `splice()`
+
+### Status
+
+Day 4 completed successfully. 🚀
