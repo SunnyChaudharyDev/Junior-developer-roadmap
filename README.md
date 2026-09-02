@@ -117,7 +117,7 @@ Day 3 completed successfully. 🚀
 
 ## Day 4 — Express REST API & DSA
 
-**Study Time:** ___ hours
+**Study Time:** 7 hours
 
 ### Challenges Completed
 
@@ -151,3 +151,53 @@ Day 3 completed successfully. 🚀
 ### Status
 
 Day 4 completed successfully. 🚀
+
+
+## Day 5 — PostgreSQL, Async JavaScript & DSA
+
+**Study Time:** 5 hours
+
+### Challenges Completed
+
+* [x] PostgreSQL Database Setup
+* [x] Connect Node.js with PostgreSQL
+* [x] GET employees from PostgreSQL
+* [x] POST new employee to PostgreSQL
+* [x] PUT update employee in PostgreSQL
+* [x] DELETE employee from PostgreSQL
+* [x] GET employee by ID
+* [x] Parameterized SQL Queries
+* [x] `RETURNING *`
+* [x] `ORDER BY`
+* [x] Async/Await with Database Queries
+* [x] API Testing with Postman
+* [x] Big O Revision
+* [x] Binary Search Introduction
+
+### Topics Practiced
+
+* PostgreSQL
+* Node.js PostgreSQL Integration
+* SQL Queries
+* `SELECT`
+* `INSERT`
+* `UPDATE`
+* `DELETE`
+* `WHERE`
+* `ORDER BY`
+* `RETURNING`
+* Parameterized Queries
+* `async/await`
+* Promises
+* `try/catch`
+* Error Handling
+* Database CRUD Operations
+* Service Layer
+* Controllers
+* Big O Notation
+* Time Complexity
+* Binary Search
+
+### Status
+
+Day 5 completed successfully. 🚀
