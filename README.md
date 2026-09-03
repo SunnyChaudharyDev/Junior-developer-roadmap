@@ -201,3 +201,61 @@ Day 4 completed successfully. 🚀
 ### Status
 
 Day 5 completed successfully. 🚀
+
+
+## Day 6 — Authentication, Authorization, JWT & DSA
+
+**Study Time:** 7 hours
+
+### Challenges Completed
+
+* [x] Create Users Table in PostgreSQL
+* [x] User Registration
+* [x] Input Validation
+* [x] Password Hashing with `bcrypt`
+* [x] Duplicate Email Checking
+* [x] User Login
+* [x] Password Verification with `bcrypt.compare()`
+* [x] JWT Token Generation
+* [x] Environment Variables with `.env`
+* [x] JWT Authentication Middleware
+* [x] Role-Based Authorization Middleware
+* [x] Protect Employee Routes
+* [x] Authentication & Authorization Testing with Postman
+* [x] Stack Implementation using JavaScript Array
+* [x] `push`, `pop`, `peek`
+* [x] Balanced Brackets Challenge
+
+### Topics Practiced
+
+* Authentication
+* Authorization
+* User Registration
+* User Login
+* PostgreSQL Users Table
+* `bcrypt`
+* Password Hashing
+* `bcrypt.compare()`
+* JWT
+* `jsonwebtoken`
+* JWT Secret
+* Environment Variables
+* `.env`
+* Middleware
+* Authentication Middleware
+* Authorization Middleware
+* Role-Based Access Control
+* `req.user`
+* HTTP `401 Unauthorized`
+* HTTP `403 Forbidden`
+* Postman API Testing
+* Stack Data Structure
+* `push()`
+* `pop()`
+* `peek()`
+* Balanced Brackets
+* DSA Problem Solving
+
+### Status
+
+Day 6 completed successfully. 🚀
